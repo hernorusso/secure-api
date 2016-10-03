@@ -1,0 +1,11 @@
+{
+  "name": "secure-api",
+  "version": "1.0.0",
+  "description": "api service with security",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "russo.hernan@gmail.com",
+  "license": "ISC"
+}
